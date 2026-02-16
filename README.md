@@ -1,5 +1,5 @@
 # New Project
 
-This project was created from local
-Created by Harshit Raj
+This project was created from local.
+Created by Harshit Raj.
 
